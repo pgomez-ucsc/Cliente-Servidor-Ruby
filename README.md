@@ -1,2 +1,2 @@
 # Cliente-Servidor-Ruby
-Aplicacion cliente servidor base para tares de asignatura de redes de computadores
+Aplicacion Cliente-Servidor base implementada con socket en lenguaje Ruby para la asignatura de Redes de Computadores.
